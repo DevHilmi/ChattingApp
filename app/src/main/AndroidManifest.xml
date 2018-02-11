@@ -18,7 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".screen.register.RegisterActivity"></activity>
+        <activity android:name=".screen.register.RegisterActivity"
+            android:theme="@style/NoActionBar"/>
+        <activity android:name=".screen.chat.ChatActivity"></activity>
     </application>
 
 </manifest>

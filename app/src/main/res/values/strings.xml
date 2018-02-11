@@ -10,4 +10,7 @@
     <string name="name">name</string>
     <string name="re_password">re - password</string>
     <string name="email">email</string>
+    <string name="text_self">text self</string>
+    <string name="text_other">text other</string>
+    <string name="dd_mm_yyy_00_00">dd/mm/yyy 00:00</string>
 </resources>
